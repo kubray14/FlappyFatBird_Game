@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pipe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pipe
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1657537577
+    locked: 0
+  - name: Clouds
+    uniqueID: 476519551
+    locked: 0
+  - name: Pipe
+    uniqueID: 4044902445
+    locked: 0
+  - name: Ground
+    uniqueID: 1326938629
+    locked: 0
+  - name: Environment
+    uniqueID: 2330859343
+    locked: 0
+  - name: Player
+    uniqueID: 624911575
+    locked: 0
